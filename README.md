@@ -1,6 +1,6 @@
 # Dots
 
-**Basic project to learn typescript - clicking to add dots to the screen, also with buttons undoing and redoing dots**
+**Basic project to start learning typescript - click to add dots to the screen, additional buttons for undoing and redoing dots**
 
 ## Getting Started
 
